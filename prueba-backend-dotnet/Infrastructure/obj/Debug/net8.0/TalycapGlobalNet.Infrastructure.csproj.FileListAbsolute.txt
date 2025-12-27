@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\bin\Debug\net8.0\TalycapGlobalNet.Infrastructure.deps.json
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\bin\Debug\net8.0\TalycapGlobalNet.Infrastructure.runtimeconfig.json
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\bin\Debug\net8.0\TalycapGlobalNet.Infrastructure.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\bin\Debug\net8.0\TalycapGlobalNet.Infrastructure.pdb
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\bin\Debug\net8.0\TalycapGlobalNet.Core.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\bin\Debug\net8.0\TalycapGlobalNet.Core.pdb
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\obj\Debug\net8.0\TalycapGlobalNet.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\obj\Debug\net8.0\TalycapGlobalNet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\obj\Debug\net8.0\TalycapGlobalNet.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\obj\Debug\net8.0\TalycapG.EAD90982.Up2Date
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\obj\Debug\net8.0\TalycapGlobalNet.Infrastructure.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\obj\Debug\net8.0\refint\TalycapGlobalNet.Infrastructure.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\obj\Debug\net8.0\TalycapGlobalNet.Infrastructure.pdb
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\obj\Debug\net8.0\TalycapGlobalNet.Infrastructure.genruntimeconfig.cache
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Infrastructure\obj\Debug\net8.0\ref\TalycapGlobalNet.Infrastructure.dll

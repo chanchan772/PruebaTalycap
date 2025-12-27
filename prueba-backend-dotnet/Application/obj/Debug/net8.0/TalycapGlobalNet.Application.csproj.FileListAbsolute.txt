@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\bin\Debug\net8.0\TalycapGlobalNet.Application.deps.json
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\bin\Debug\net8.0\TalycapGlobalNet.Application.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\bin\Debug\net8.0\TalycapGlobalNet.Application.pdb
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\bin\Debug\net8.0\TalycapGlobalNet.Core.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\bin\Debug\net8.0\TalycapGlobalNet.Core.pdb
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\obj\Debug\net8.0\TalycapGlobalNet.Application.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\obj\Debug\net8.0\TalycapGlobalNet.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\obj\Debug\net8.0\TalycapGlobalNet.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\obj\Debug\net8.0\TalycapG.C5BE3ADD.Up2Date
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\obj\Debug\net8.0\TalycapGlobalNet.Application.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\obj\Debug\net8.0\refint\TalycapGlobalNet.Application.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\obj\Debug\net8.0\TalycapGlobalNet.Application.pdb
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\obj\Debug\net8.0\ref\TalycapGlobalNet.Application.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\bin\Debug\net8.0\TalycapGlobalNet.Infrastructure.dll
+C:\Users\Sebastian\Documents\Prueba Tecnica Talycap\prueba-backend-dotnet\Application\bin\Debug\net8.0\TalycapGlobalNet.Infrastructure.pdb

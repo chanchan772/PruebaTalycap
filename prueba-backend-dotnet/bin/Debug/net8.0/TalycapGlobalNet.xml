@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TalycapGlobalNet</name>
+    </assembly>
+    <members>
+        <member name="M:TalycapGlobalNet.Api.Controllers.ClientesController.Get">
+            <summary>
+            Obtiene una lista de todos los clientes.
+            </summary>
+            <returns>Una lista de clientes.</returns>
+        </member>
+        <member name="M:TalycapGlobalNet.Api.Controllers.ClientesController.Get(System.String)">
+            <summary>
+            Obtiene un cliente por su número de identificación (cédula).
+            </summary>
+            <param name="identificacion">El número de identificación del cliente.</param>
+            <returns>El cliente solicitado.</returns>
+        </member>
+    </members>
+</doc>
