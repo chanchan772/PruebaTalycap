@@ -1,0 +1,77 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "id": 1,
+            "title": "Mock Movie 1: The Beginning",
+            "release_date": "2023-01-15",
+            "vote_average": 7.5,
+            "poster_path": "/assets/images/mock_poster1.svg"
+        },
+        {
+            "id": 2,
+            "title": "Mock Movie 2: The Sequel",
+            "release_date": "2023-03-20",
+            "vote_average": 8.1,
+            "poster_path": "/assets/images/mock_poster2.svg"
+        },
+        {
+            "id": 3,
+            "title": "Mock Movie 3: The Return",
+            "release_date": "2023-05-10",
+            "vote_average": 6.9,
+            "poster_path": "/assets/images/mock_poster3.svg"
+        },
+        {
+            "id": 4,
+            "title": "Adventure in the Mountains",
+            "release_date": "2022-11-01",
+            "vote_average": 7.8,
+            "poster_path": "/assets/images/mock_poster4.svg"
+        },
+        {
+            "id": 5,
+            "title": "Mystery of the Old House",
+            "release_date": "2023-02-28",
+            "vote_average": 7.2,
+            "poster_path": "/assets/images/mock_poster5.svg"
+        },
+        {
+            "id": 6,
+            "title": "Sci-Fi Saga: Part 1",
+            "release_date": "2024-01-01",
+            "vote_average": 8.5,
+            "poster_path": "/assets/images/mock_poster6.svg"
+        },
+        {
+            "id": 7,
+            "title": "Historical Epic: The King's Rise",
+            "release_date": "2022-09-10",
+            "vote_average": 7.9,
+            "poster_path": "/assets/images/mock_poster7.svg"
+        },
+        {
+            "id": 8,
+            "title": "Animated Fun: The Little Dragon",
+            "release_date": "2023-07-04",
+            "vote_average": 8.0,
+            "poster_path": "/assets/images/mock_poster8.svg"
+        },
+        {
+            "id": 9,
+            "title": "Thriller: The Silent Witness",
+            "release_date": "2023-04-22",
+            "vote_average": 7.1,
+            "poster_path": "/assets/images/mock_poster9.svg"
+        },
+        {
+            "id": 10,
+            "title": "Romantic Comedy: Love in Paris",
+            "release_date": "2023-06-18",
+            "vote_average": 6.5,
+            "poster_path": "/assets/images/mock_poster10.svg"
+        }
+    ],
+    "total_pages": 1,
+    "total_results": 10
+}
